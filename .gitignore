@@ -16,6 +16,16 @@ dist/
 artifacts/
 backups/
 
+# Desktop state and release output
+outputs/
+smoke-data/
+qa-data/
+WebView2/
+memory.json
+memory-recovery-*.json
+session.json
+window.json
+
 # Local editor and OS metadata
 .idea/
 .vscode/
